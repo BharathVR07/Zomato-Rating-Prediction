@@ -13,6 +13,7 @@
 
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 • Handling the missing/null values.
+![chart](https://user-images.githubusercontent.com/110616143/184934883-ff67182f-7a05-4e1c-8daf-31d1ebdf087b.png)
 
 • Plotted bargraphs, pie charts, distplots, QQ plot and heatmap for numerical and categorical features for EDA.
 
