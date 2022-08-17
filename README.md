@@ -9,7 +9,7 @@
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn.
 
-• Dataset by Kaggle : https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data.
+• Dataset by Kaggle : https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
 
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 • Handling the missing/null values.
